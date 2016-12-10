@@ -1,0 +1,34 @@
+README:
+
+
+[
+    {
+        "identificationProfileId": "0240793d-4181-4ffd-af45-a2d12dba7ca2", Shankhadeeep
+        "enrollmentStatus": "Enrolled"
+    },
+    {
+        "identificationProfileId": "794d308d-8bb6-48f7-9725-c9363a38626c", Jyotirmoy
+        "enrollmentStatus": "Enrolled"
+    },
+    {
+        "identificationProfileId": "eac7af90-c635-4f9c-8dea-aa0f0b3d7408",  Kamran
+        "enrollmentStatus": "Enrolled"
+    },
+    {
+        "identificationProfileId": "eb8f0946-8147-409a-9255-378c59a1fefc", Amir
+        "enrollmentStatus": "Enrolling"
+    }
+]
+
+Iden API Url :
+https://api.projectoxford.ai/spid/v1.0/identify?identificationProfileIds=0240793d-4181-4ffd-af45-a2d12dba7ca2,7.....
+
+headers: Ocp-Apim-Subscription-Key : d59eebebdac443f0821b386975907032
+Content-Type : application/octet-stream 
+
+https://api.projectoxford.ai/spid/v1.0/identificationProfiles  // Get all profiles with enrollment status.
+
+
+https://api.projectoxford.ai/spid/v1.0/operations/ab737a8d-81bf-4d68-93ce-22a84d9fd195   //Get op status
+
+https://api.projectoxford.ai/spid/v1.0/identificationProfiles/eac7af90-c635-4f9c-8dea-aa0f0b3d7408/enroll //For enroll new 
