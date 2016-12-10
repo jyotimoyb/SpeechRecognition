@@ -1,0 +1,6 @@
+c:\users\shankhadeepd644\documents\visual studio 2015\Projects\SpeechRecognition\SpeechRecognition\bin\Debug\SpeechRecognition.exe.config
+c:\users\shankhadeepd644\documents\visual studio 2015\Projects\SpeechRecognition\SpeechRecognition\bin\Debug\SpeechRecognition.exe
+c:\users\shankhadeepd644\documents\visual studio 2015\Projects\SpeechRecognition\SpeechRecognition\bin\Debug\SpeechRecognition.pdb
+c:\users\shankhadeepd644\documents\visual studio 2015\Projects\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.csprojResolveAssemblyReference.cache
+c:\users\shankhadeepd644\documents\visual studio 2015\Projects\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.exe
+c:\users\shankhadeepd644\documents\visual studio 2015\Projects\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.pdb
